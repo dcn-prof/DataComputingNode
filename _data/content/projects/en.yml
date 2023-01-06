@@ -1,11 +1,11 @@
 # you can move this content to front matter of [language]/tabs/projects.md
 ###########################################################
-#                Projects Page Data (Test 2022-12-12)
+#                Project "DCN-Data" (Update 2023-01-06)
 ###########################################################
 page_data:
   main:
-    header: "Projects"
-    info: "Your Project page description."
+    header: "DCN-Data Project"
+    info: "This project shows a tiny part of my skills in data science."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
