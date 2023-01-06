@@ -1,15 +1,15 @@
 ###########################################################
 # Owner's Personal Information (Udate 2022-12-12)
 ###########################################################
-# Update DCN_2022-12-01-(002) : change and substitute
+# Update DCN_2023-01-06-(001) : change and substitute Personal infos
 # This is your brand name
-brand: " Path of Glory "
+brand: " Didier Certain "
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "The Winner of the Canal"
+name: "Proud member of Breizh Data Club"
 
 # home page top header texts
 home:
@@ -50,11 +50,11 @@ meta_common_description: "For Data Lovers Only!"
 # comment to remove any contact item
 contacts:
   #- github: ""
-  #- email: ""
-  #- linkedin: ""
+  #- email: "didier.certain@etu.u-cergy.fr"
+  #- linkedin: "https://www.linkedin.com/today/author/didier-certain-46950a1"
   #- twitter: ""
   #- instagram: ""
-  #- youtube: ""
+  #- youtube: "https://www.youtube.com/watch?v=4YbSCFyA6BM"
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
