@@ -1,4 +1,4 @@
-# The contact account constants
+# The contact account constants (Update 2023-01-06 for personalisation)
 # for icons please check this page https://fontawesome.com/v4.7/icons/
 #   ex:   icon: "fa fa-github"
 # you can also add svg or png images as icons (local (starts with '/') or http:// or https://)
@@ -16,7 +16,7 @@ email:
   url: ""
 linkedin:
   icon: "fa fa-linkedin"
-  url: "https://www.linkedin.com/in"
+  url: "https://www.linkedin.com/today/author/didier-certain-46950a1"
 twitter:
   icon: "fa fa-twitter"
   url: "https://twitter.com"
