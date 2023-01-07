@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Examples
-title: TEST 2023-01-06 (Test_Post sur markdown)
+title: Breaking news! (Fri 2023-01-06) (New _Post xxxx.markdown)
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -108,28 +108,19 @@ kbd text <kbd>Hello world</kbd>
 
 #### Blockquote
 
-> **William Shakespeare**, Let me not to the marriage of true minds
-> Admit impediments. Love is not love
-> Which alters when it alteration finds,
-> Or bends with the remover to remove.
-> O no, it is an ever-fixed mark
-> That looks on tempests and is never shaken;
-> It is the star to every wand'ring barque,
-> Whose worth's unknown, although his height be taken.
+> Donc, pour être plus efficace, 
+> le marketing a besoin de s’appuyer sur les données comportementales observées des prospects à conquérir ou des anciens clients à fidéliser. 
+> C’est ainsi qu’est né le concept de Data-driven marketing qui se définit comme une activité marketing pilotée par les données. 
+> Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
 
 ### Link
 
-This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
+This is [My Linkedin](https://www.linkedin.com/today/author/didier-certain-46950a1)), a simple link to my C.V.
 
-\* Hello world! This is **[{{ site.data.owner[site.data.conf.main.default_lng].brand }}]({{ site.url }})**
-
-### Picture
-
-![such a lovely place](:post_pic1.jpg)
 
 ### Picture (centered)
 
-![such a lovely place](:post_pic1.jpg){:data-align="center"}
+![such a lovely place](:i-moutons.png){:data-align="center"}
 
 ### Lists
 
