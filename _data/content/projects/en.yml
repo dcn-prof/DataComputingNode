@@ -199,12 +199,12 @@ page_data:
       img_title: "Le long de la mer à Ouessant / Along seaside in Ouessant island"
       date: "2023-01-01"
       post: |
-        # Souhaits de nouvel an. New Year Wishes.
-        Réflexions, pensées et décisions
+        # Souhaits et résolutions de nouvel an. New Year Wishes and Resolutions.
+        Réflexions, pensées puis décisions
         ![La Rade de Brest](:Plan_de_la_rade_de_Brest.jpg)  
 
         ```python
-        C’est au Conquet , à l’ouest
+        C’est au Conquet, à l’ouest
         De la Rade de Brest,
         Sous la voute céleste,
         Que j’ai fait l’autotest.
@@ -227,15 +227,16 @@ page_data:
         Et me déconnecter.
         Frugale sobriété,
         Spartiate austérité,
-        Maintenant, j’ai tranché.
+        Maintenant, j’ai tranché :
         
         Mon smartphone aux déchets,
         Mon PC au musée.
         Désormais, c’est sacré.
         Je veux être parfait !
         ```        
-
-        ![Ouessant - Promenade à pieds](:Ouessant-promenade-le-long-de-la-mer.jpg)          
+        ![Ouessant - Promenade à pieds](:Ouessant-promenade-le-long-de-la-mer.jpg)       
+        Je vais marcher à pied !
+        
     # quote
     - type: id_quote
       project_name: "Example Project"
