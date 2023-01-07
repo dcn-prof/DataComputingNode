@@ -182,15 +182,14 @@ page_data:
         # Ar mor a zo glaz. The sea is blue.
         This is Lighthouse Project. An example: Cardinaux lighthouse in Hoedic island (Brittany).
         ![Cardinaux lighthouse in Hoedic island](:phare-des-cardinaux_Hoedic-(centre).jpg)
-
-   - type: id_picture
+    - type: id_picture
       project_name: "Seaside Project"
       project_excerpt: "Seaside"
       img: ":Nividic-03.jpg"
       img_title: "Le long de la mer en Bretagne / Along seaside in Brittany"
       date: "2023-01-01"
       post: |
-        # Ar mor a zo glaz. The sea is blue.
+        # Ar mor a zo braz. The sea is wide.
         This is Seaside Project. An example: Walking along seaside (Brittany).
         ![Leurvaz an Ividig / Nividic lighthouse](:Nividic-03.jpg)
         
