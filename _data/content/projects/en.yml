@@ -192,7 +192,18 @@ page_data:
         # Ar mor a zo braz. The sea is wide.
         This is Seaside Project. An example: Walking along seaside (Brittany).
         ![Nividic lighthouse in Ouessant island](:Nividic-03.jpg)
-        
+    - type: id_picture
+      project_name: "New year Wishes"
+      project_excerpt: "New Year 2023"
+      img: ":Ouessant-promenade-le-long-de-la-mer.jpg"
+      img_title: "Le long de la mer à Ouessant / Along seaside in Ouessant island"
+      date: "2023-01-01"
+      post: |
+        # Souhaits de nouvel an. New Year Wishes.
+        Réflexions, pensées et décisions
+        ![La Rade de Brest](:Plan_de_la_rade_de_Brest.jpg)  
+        Réflexions, pensées et décisions
+        ![Ouessant - Promenade à pieds](:Ouessant-promenade-le-long-de-la-mer.jpg)          
     # quote
     - type: id_quote
       project_name: "Example Project"
