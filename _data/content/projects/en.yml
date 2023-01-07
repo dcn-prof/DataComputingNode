@@ -8,10 +8,13 @@ page_data:
     info: "This project shows a tiny part of my skills in data science."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    img: ":polynesia-Tahiti_lagoon.jpg"
     back_color: "lightblue"
 
   category:
+    - title: "Data and me"
+      type: id_dataandme
+      color: "yellow"
     - title: "Example"
       type: id_example
       color: "gray"
@@ -23,6 +26,17 @@ page_data:
       color: "#2FD0ED"
 
   list:
+      # Data and me
+    - type: id_dataandme
+      project_name: "Meteo"
+      project_excerpt: "by Prof Calculus"
+      img: ":Professeur.jpg"
+      img_title: "Prof Calculus"
+      date: "2023-01-01"
+      post: |
+        # Scientific quotation
+      It is difficult to predict what will happen. Especially if it's in the future.
+
     # example
     - type: id_example
       project_name: "Example Project"
