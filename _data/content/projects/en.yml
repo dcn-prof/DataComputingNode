@@ -173,16 +173,15 @@ page_data:
 
     # picture
     - type: id_picture
-      project_name: "Example Project"
-      project_excerpt: "Picture"
-      img: ":project2_thumb.jpg"
-      img_title: "img title2"
-      date: "2021-04-23"
+      project_name: "Lighthouse Project"
+      project_excerpt: "Lighthouse"
+      img: ":phare-des-cardinaux_Hoedic-(centre).jpg"
+      img_title: "phare-des-cardinaux_Hoedic / Cardinaux lighthouse in Hoedic island"
+      date: "2023-01-01"
       post: |
         # Title
-        This is project content.
-
-        ![Image](:project2_thumb.jpg)
+        This is Lighthouse Project. AN example: Cardinaux lighthouse in Hoedic island (Brittany).
+        ![Image](:phare-des-cardinaux_Hoedic-(centre).jpg)
 
     # quote
     - type: id_quote
