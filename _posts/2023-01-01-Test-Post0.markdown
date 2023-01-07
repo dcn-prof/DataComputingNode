@@ -11,16 +11,16 @@ category: auto generated
 # multiple tag entries are possible
 tags: [jekyll, example post]
 # thumbnail image for post
-img: ":post_pic1.jpg"
+img: ":Cat-dog.jpg"
 # disable comments on this page
 comments_disable: true
 
 # publish date
-date: 2021-08-10 11:32:53 +0900
+date: 2023-01-01 00:00:00 +0200
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2021-08-10 11:32:53 +0900
+meta_modify_date: 2023-01-01 00:00:00 +0200
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
