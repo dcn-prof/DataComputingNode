@@ -1,0 +1,156 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_Examples
+title: TEST 2023-01-06 (Test_Post sur markdown)
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: Prof. Calculus
+# multiple category is not supported
+category: jekyll
+# multiple tag entries are possible
+tags: [Calculus, Data, Science, Technology, Engineering, Computing, Processing, Modelizing]
+# thumbnail image for post
+img: ":Professeur.jpg"
+# disable comments on this page
+#comments_disable: true
+
+# publish date
+date: 2023-01-06 00:00:00 +0200
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-01-06 00:00:00 +0200
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+This is an test page to display markdown related styles for Mr. Green Jekyll Theme.
+Written by Prof. Calculus on Friday 2023-01-06.
+
+<!-- outline-end -->
+
+
+
+###### Let's start!
+***
+### Data-Driven Marketing, what does it mean?
+{:data-align="center"}
+
+
+### Le data-driven marketing, en quelques mots
+Commençons par préciser ce qu’est le -**marketing**. C’est un ensemble de techniques et de méthodes qui part de l’analyse des besoins des clients afin de :
+• soit mettre en œuvre des actions susceptibles d’influencer le comportement des clients,
+• soit adapter l’offre commerciale de l’entreprise pour la rapprocher des besoins des clients,
+ceci en vue de satisfaire chaque client, de le fidéliser et ainsi d’améliorer la rentabilité de l’entreprise.
+
+On voit ainsi que, par construction, le marketing consomme des données, des informations ou des connaissances sur les attentes, les envies, les besoins, les désirs ou les rêves des clients. Le marketing est donc structurellement basé sur la compréhension des clients via un dialogue continu.
+
+Pour comprendre et connaître les clients, il y a deux grandes sources de données: leurs déclarations et leurs comportements. Une grande part des études de marché menées par les marketers sont basées sur les déclarations des personnes interrogées (prospects ou clients). C’est utile mais cela ne suffit pas car les déclarations sont parfois trompeuses ou incomplètes.
+
+Prenons un exemple. Lorsqu’on demande à un individu quelle est sa taille et son poids, il est usuel qu’il ajoute quelques centimètres à sa taille et retire quelques kilos à son poids. Ce n’est pas vraiment un mensonge. C’est juste un réflexe très humain. En revanche, quand cet individu achète un vêtement, il prend usuellement ce vêtement à sa taille, ni plus, ni moins, par souci de son confort personnel. Son comportement est donc plus proche de la vérité vraie que ses déclarations.
+
+Prenons un autre exemple, si on me demande quelles langues je parle, je peux, par exemple, déclarer que je parle chinois (même si ce n’est pas tout à fait exact). En revanche, mon navigateur Web indiquera précisément quelle langue j’ai configurée par défaut. Et cette langue est vraisemblablement celle que je parle usuellement.
+
+On constate donc ainsi que l’analyse des comportements des prospects (ou des clients) est beaucoup plus riche en connaissances utiles qu’une longue litanie de questions appelant des réponses déclaratives.
+
+Ce constat a été formulé, depuis longtemps en marketing, par la conquête du Graal que résume l’épigramme suivant :
+---python
+   Montre-moi ce que tu fais.
+   Et je saurai qui tu es.
+   Puis je te proposerai
+   Ce singulier qui te plaît.
+   Et là, tu diras « Gagné !»
+---   
+Donc, pour être plus efficace, le marketing a besoin de s’appuyer sur les données comportementales observées des prospects à conquérir ou des anciens clients à fidéliser. C’est ainsi qu’est né le concept de Data-driven marketing qui se définit comme une activité marketing pilotée par les données. Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
+
+***
+
+### Headings (centered)
+{:data-align="center"}
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+
+#### Texts
+
+Quoted text `Hello world`
+
+Bold text **Hello world**
+
+Italic text _Hello world_
+
+kbd text <kbd>Hello world</kbd>
+
+#### Blockquote
+
+> **William Shakespeare**, Let me not to the marriage of true minds
+> Admit impediments. Love is not love
+> Which alters when it alteration finds,
+> Or bends with the remover to remove.
+> O no, it is an ever-fixed mark
+> That looks on tempests and is never shaken;
+> It is the star to every wand'ring barque,
+> Whose worth's unknown, although his height be taken.
+
+### Link
+
+This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
+
+\* Hello world! This is **[{{ site.data.owner[site.data.conf.main.default_lng].brand }}]({{ site.url }})**
+
+### Picture
+
+![such a lovely place](:post_pic1.jpg)
+
+### Picture (centered)
+
+![such a lovely place](:post_pic1.jpg){:data-align="center"}
+
+### Lists
+
+- Apple
+- Banana
+- Orange
+
+1. Fruits
+   1. Apples
+      - Granny Smith
+      - Mutsu
+   1. Bananas
+      - Cavendish
+      - Red
+1. Vegetables
+
+***
+
+#### Quote
+
+```python
+for i in range(5, 10):
+  print(i)
+```
