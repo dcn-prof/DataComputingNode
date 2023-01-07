@@ -191,7 +191,7 @@ page_data:
       post: |
         # Ar mor a zo braz. The sea is wide.
         This is Seaside Project. An example: Walking along seaside (Brittany).
-        ![Nividic lighthouse in Ouessan island](:Nividic-03.jpg)
+        ![Nividic lighthouse in Ouessant island](:Nividic-03.jpg)
         
     # quote
     - type: id_quote
