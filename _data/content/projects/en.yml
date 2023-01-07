@@ -14,7 +14,7 @@ page_data:
   category:
     - title: "Data and me"
       type: id_dataandme
-      color: "yellow"
+      color: "#FFFF00"
     - title: "Example"
       type: id_example
       color: "gray"
@@ -26,17 +26,6 @@ page_data:
       color: "#2FD0ED"
 
   list:
-      # Data and me
-    - type: id_dataandme
-      project_name: "Meteo"
-      project_excerpt: "by Prof Calculus"
-      img: ":Professeur.jpg"
-      img_title: "Prof Calculus"
-      date: "2023-01-01"
-      post: |
-        # Scientific quotation
-      It is difficult to predict what will happen. Especially if it's in the future.
-
     # example
     - type: id_example
       project_name: "Example Project"
@@ -244,3 +233,13 @@ page_data:
       date: "2021-12-20"
       post: |
         Be the change that you wish to see in the world.
+# Data and me
+    - type: id_dataandme
+      project_name: "Meteo"
+      project_excerpt: "by Prof Calculus"
+      img: ":Professeur.jpg"
+      img_title: "Prof Calculus"
+      date: "2023-01-01"
+      post: |
+        # Scientific quotation
+      It is difficult to predict what will happen. Especially if it's in the future.
