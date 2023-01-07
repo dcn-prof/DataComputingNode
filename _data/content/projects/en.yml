@@ -12,7 +12,10 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
+    - title: "Data and me"
+      type: id_quote
+      color: "#ffff00"
+      - title: "Example"
       type: id_example
       color: "gray"
     - title: "Picture"
