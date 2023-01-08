@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Examples
-title: (Fri 2023-01-06) Data-Driven Marketing, what does it mean?
+title: Data-Driven Marketing, what does it mean?
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -39,7 +39,7 @@ date: 2023-01-06 00:00:00 +0200
 
 <!-- outline-start -->
 
-<i> Page.markdown displayed with styles from Mr. Green Jekyll Theme.
+<i> Page.markdown displayed with Mr. Green Jekyll Theme.
 Written by Prof. Calculus on Friday 2023-01-06. </i>
 
 <!-- outline-end -->
@@ -68,7 +68,7 @@ Prenons un autre exemple, si on me demande quelles langues je parle, je peux, pa
 
 On constate donc ainsi que l’analyse des comportements des prospects (ou des clients) est beaucoup plus riche en connaissances utiles qu’une longue litanie de questions appelant des réponses déclaratives.
 
-Ce constat a été formulé, depuis longtemps en marketing, par la conquête du Graal que résume l’épigramme suivant :
+Ce constat a été formulé, depuis longtemps en marketing, par la quête du Graal résumé dans l’épigramme suivant :
 
 ---
 >   Montre-moi ce que tu fais. <br>
@@ -76,14 +76,30 @@ Ce constat a été formulé, depuis longtemps en marketing, par la conquête du 
 >   Puis je te proposerai      <br>
 >   Ce singulier qui te plaît. <br>
 >   Et là, tu diras « Gagné !» <br>
+
 ---   
 
-Donc, pour être plus efficace, le marketing a besoin de s’appuyer sur les données comportementales observées des prospects à conquérir ou des anciens clients à fidéliser. C’est ainsi qu’est né le concept de Data-driven marketing qui se définit comme une activité marketing pilotée par les données. Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
+C'est pourquoi, pour être plus efficace, le marketing a besoin de s’appuyer sur les **données comportementales** observées des prospects à conquérir ou des anciens clients à fidéliser. C’est ainsi qu’est né le concept de **Data-driven marketing** qui se définit comme une **activité marketing pilotée par les données**. Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
 
 ***
 
-### Headings (centered)
+### En résumé
 {:data-align="center"}
+
+> Donc, pour être plus efficace, 
+> le marketing a besoin de s’appuyer sur les données comportementales observées des prospects à conquérir ou des anciens clients à fidéliser. 
+> C’est ainsi qu’est né le concept de Data-driven marketing qui se définit comme une activité marketing pilotée par les données. 
+> Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
+
+### Link
+
+If you want to discover more about this topic, here is [My Linkedin](https://fr.linkedin.com/in/didier-certain-46950a1), a simple link to my C.V.
+
+### Humour
+
+![Connected sheeps in the field](:i-moutons.png){:data-align="center"}
+
+
 
 # Heading 1
 
@@ -107,43 +123,3 @@ Bold text **Hello world**
 Italic text _Hello world_
 
 kbd text <kbd>Hello world</kbd>
-
-#### Blockquote
-
-> Donc, pour être plus efficace, 
-> le marketing a besoin de s’appuyer sur les données comportementales observées des prospects à conquérir ou des anciens clients à fidéliser. 
-> C’est ainsi qu’est né le concept de Data-driven marketing qui se définit comme une activité marketing pilotée par les données. 
-> Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
-
-### Link
-
-This is [My Linkedin](https://www.linkedin.com/today/author/didier-certain-46950a1)), a simple link to my C.V.
-
-
-### Picture (centered)
-
-![such a lovely place](:i-moutons.png){:data-align="center"}
-
-### Lists
-
-- Apple
-- Banana
-- Orange
-
-1. Fruits
-   1. Apples
-      - Granny Smith
-      - Mutsu
-   1. Bananas
-      - Cavendish
-      - Red
-1. Vegetables
-
-***
-
-#### Quote
-
-```python
-for i in range(5, 10):
-  print(i)
-```
