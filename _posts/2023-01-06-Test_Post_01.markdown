@@ -93,10 +93,11 @@ C'est pourquoi, pour être plus efficace, le marketing a besoin de s’appuyer s
 
 ### Link
 
-If you want to discover more about this topic, here is [My Linkedin](https://fr.linkedin.com/in/didier-certain-46950a1), a simple link to my C.V.
+If you wish to discover more about this topic, here is [My Linkedin](https://fr.linkedin.com/in/didier-certain-46950a1). 
+You could find also my C.V. if needed.
 
 ### Humour
-
+How I see the future in an efficient world ...
 ![Connected sheeps in the field](:i-moutons.png){:data-align="center"}
 
 
