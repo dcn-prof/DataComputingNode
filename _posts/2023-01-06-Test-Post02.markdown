@@ -49,8 +49,14 @@ Written by Prof. Calculus </i>
 ### About face recognition with A.I.
 {:data-align="center"}
 
+How to cope with face recognition with a little help of Artificial Intelligence?
+![Face recognition and A.I.](:Cat-dog.jpg){:data-align="center"}
+
+
+
+
 Work in progress ...
-Please, I will comme back ASAP. 
+Please, I will come back ASAP. 
 ![Work in progress](:Travail_en_vacances.jpg){:data-align="center"}
 
 
