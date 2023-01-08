@@ -39,8 +39,8 @@ date: 2023-01-06 00:00:00 +0200
 
 <!-- outline-start -->
 
-Test page to display markdown related styles for Mr. Green Jekyll Theme.
-Written by Prof. Calculus on Friday 2023-01-06.
+_ Page.markdown displayed with styles from Mr. Green Jekyll Theme.
+Written by Prof. Calculus on Friday 2023-01-06. _
 
 <!-- outline-end -->
 
@@ -69,13 +69,14 @@ Prenons un autre exemple, si on me demande quelles langues je parle, je peux, pa
 On constate donc ainsi que l’analyse des comportements des prospects (ou des clients) est beaucoup plus riche en connaissances utiles qu’une longue litanie de questions appelant des réponses déclaratives.
 
 Ce constat a été formulé, depuis longtemps en marketing, par la conquête du Graal que résume l’épigramme suivant :
----python
-   Montre-moi ce que tu fais.
-   Et je saurai qui tu es.
-   Puis je te proposerai
-   Ce singulier qui te plaît.
-   Et là, tu diras « Gagné !»
+---
+>   Montre-moi ce que tu fais.
+>   Et je saurai qui tu es.
+>   Puis je te proposerai
+>   Ce singulier qui te plaît.
+>   Et là, tu diras « Gagné !»
 ---   
+
 Donc, pour être plus efficace, le marketing a besoin de s’appuyer sur les données comportementales observées des prospects à conquérir ou des anciens clients à fidéliser. C’est ainsi qu’est né le concept de Data-driven marketing qui se définit comme une activité marketing pilotée par les données. Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
 
 ***
