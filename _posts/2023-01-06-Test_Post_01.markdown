@@ -40,7 +40,7 @@ date: 2023-01-06 00:00:00 +0200
 <!-- outline-start -->
 
 <i> Page.markdown displayed with Mr. Green Jekyll Theme.
-Written by Prof. Calculus on Friday 2023-01-06. </i>
+Written by Prof. Calculus </i>
 
 <!-- outline-end -->
 
@@ -79,17 +79,17 @@ Ce constat a été formulé, depuis longtemps en marketing, par la quête du Gra
 
 ---   
 
-C'est pourquoi, pour être plus efficace, le marketing a besoin de s’appuyer sur les **données comportementales** observées des prospects à conquérir ou des anciens clients à fidéliser. C’est ainsi qu’est né le concept de **Data-driven marketing** qui se définit comme une **activité marketing pilotée par les données**. Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
+C'est pourquoi, pour être plus efficace, le marketing a besoin de s’appuyer sur les données comportementales observées des prospects à conquérir ou des anciens clients à fidéliser. C’est ainsi qu’est né le concept de **Data-driven marketing** qui se définit comme une **activité marketing pilotée par les données**. Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
 
 ***
 
 ### En résumé
 {:data-align="center"}
 
-> Donc, pour être plus efficace, 
+> Pour être plus efficace, 
 > le marketing a besoin de s’appuyer sur les données comportementales observées des prospects à conquérir ou des anciens clients à fidéliser. 
-> C’est ainsi qu’est né le concept de Data-driven marketing qui se définit comme une activité marketing pilotée par les données. 
-> Et ces données observées proviennent de prélèvements effectués lors des interactions entre les clients et l’entreprise.
+> Le concept de Data-driven marketing se définit comme une activité marketing pilotée par les données. 
+> Et ces données observées proviennent de l'observation des comportements des clients observés lors des diverses interactions entre clients et entreprises.
 
 ### Link
 
@@ -100,27 +100,6 @@ You could find also my C.V. if needed.
 How I see the future in an efficient world ...
 ![Connected sheeps in the field](:i-moutons.png){:data-align="center"}
 
+Nice Hollidays, isn't it?
+![Nice Hollidays, isn't it?](:Les_deux_cochons_dans_la_ferme.jpg){:data-align="center"}
 
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-
-#### Texts
-
-Quoted text `Hello world`
-
-Bold text **Hello world**
-
-Italic text _Hello world_
-
-kbd text <kbd>Hello world</kbd>
