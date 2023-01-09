@@ -1,11 +1,11 @@
 # you can move this content to front matter of [language]/tabs/projects.md
 ###########################################################
-#                Project "DCN-Data" (Update 2023-01-06)
+#                Project "DCN-Data" (Update 2023-01-09)
 ###########################################################
 page_data:
   main:
-    header: "DCN-Data Project"
-    info: "This project shows a tiny part of my skills in data science."
+    header: "DCN-Data Projects"
+    info: "These projects show a tiny part of my skills in data science."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":polynesia-Tahiti_lagoon.jpg"
@@ -200,7 +200,7 @@ page_data:
       date: "2023-01-01"
       post: |
         # Résolutions de nouvel an. New Year Resolutions.
-        Réflexions, pensées puis décisions
+        Réflexions, pensées puis décisions. Reflections, thoughts then decisions.
         ![La Rade de Brest](:Plan_de_la_rade_de_Brest.jpg)  
 
         ```python
@@ -235,7 +235,7 @@ page_data:
         Je veux être parfait !
         ```        
         ![Ouessant - Promenade à pieds](:Ouessant-promenade-le-long-de-la-mer.jpg)       
-        Je vais marcher à pied !
+        **Je vais marcher à pied !**
         
     # quote
     - type: id_quote
