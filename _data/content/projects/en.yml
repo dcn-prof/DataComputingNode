@@ -1,10 +1,10 @@
 # you can move this content to front matter of [language]/tabs/projects.md
 ###########################################################
-#                Project "DCN-Data" (Update 2023-01-09)
-###########################################################
+#    Prof. Calculus's Data Projects (Update 2023-01-12)
+########################################################### (Bloc D.1)
 page_data:
   main:
-    header: "DCN-Data Projects"
+    header: "Prof. Calculus's Data Projects"
     info: "These projects show a tiny part of my skills in data science."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
@@ -171,7 +171,7 @@ page_data:
           print(i)
         ```
 
-    # picture
+    # picture  
     - type: id_picture
       project_name: "Lighthouse Project"
       project_excerpt: "Lighthouse"
