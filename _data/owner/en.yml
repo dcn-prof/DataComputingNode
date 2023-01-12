@@ -11,7 +11,7 @@ brand_sub_text: "The Data Expert"
 # used for seo meta post author (if it's not defined in post)
 name: "Data Expert . Proud member of Breizh Data Club"
 
-# home page top header texts
+# home page top header texts (Bloc A.1)
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
   top_header_line1: "Hello! You are in the right place."
@@ -20,7 +20,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "I will give you some advices and more ...  (cliffhanger)"
+  sub_title: "I will give you some advices and more ... "
 # former ===>   sub_title: "$site_sample"
 
 # if you don't want to add copyright year, comment or leave it blank.
@@ -46,16 +46,16 @@ creative_commons:
 # if it has no content, this will be used for page description. It is also used in manifest.json
 meta_common_description: " For Data Lovers Only! "
 
-# contact options (side nav bottom and about page)
+# contact options (side nav bottom and about page - (Bloc G))
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
   #- github: ""
-  - email: "didier.certain@etu.u-cergy.fr"
+  #- email: "didier.certain@etu.u-cergy.fr"
   #- linkedin: "https://www.linkedin.com/today/author/didier-certain-46950a1"
   #- twitter: ""
   #- instagram: ""
-  - youtube: "https://www.youtube.com/watch?v=4YbSCFyA6BM"
+  #- youtube: "https://www.youtube.com/watch?v=4YbSCFyA6BM"
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
