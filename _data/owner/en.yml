@@ -1,22 +1,22 @@
 ###########################################################
-# Owner's Personal Information (Udate 2022-12-12)
+# Owner's Personal Information (Update 2023-01-12)
 ###########################################################
 # Update DCN_2023-01-06-(001) : change and substitute Personal infos
+# Update DCN_2023-01-12-(001) : change and substitute Personal infos
 # This is your brand name
 brand: " Prof. Calculus "
 
 # text below the brand name
-brand_sub_text: "The Data Expert, proud member of Breizh Data Club"
-
+brand_sub_text: "The Data Expert"
 # used for seo meta post author (if it's not defined in post)
-name: "Proud member of Breizh Data Club"
+name: "Data Expert. Proud member of Breizh Data Club"
 
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "Come in! You are in the rigth place."
+  top_header_line1: "Hello! You are in the right place."
   # if commented, top header will be a single line
-  top_header_line2: " Prof. Calculus "
+  top_header_line2: " I am Prof. Calculus "
 
 # about page sub title
 about:
