@@ -39,8 +39,7 @@ meta_modify_date: 2023-01-06 00:00:00 +0200
 
 <!-- outline-start -->
 
-<i> Page.markdown displayed with Mr. Green Jekyll Theme. </i>
-<i> <br> Written by Prof. Calculus </i>
+<i> Page.markdown displayed with Mr. Green Jekyll Theme. <br> Written by Prof. Calculus </i>
 
 <!-- outline-end -->
 
