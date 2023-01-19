@@ -58,8 +58,10 @@ Work in progress ...
 Please, I will come back ASAP. 
 ![Work in progress](:Travail_en_vacances.jpg){:data-align="center"}
 
-## Voici une nouvelle image Carnac Kerliscan
-<img src="https://i.pinimg.com/originals/78/77/54/7877542847f88f1836f016d2cbf66711.jpg", alt= " PATH TO GLORY ", width = "500", height = "600" >
+## Voici une nouvelle image de test
+<a href="https://www.dcc-marketing.com/" title="Carnac Kerliscan">
+<img src="https://i.pinimg.com/originals/78/77/54/7877542847f88f1836f016d2cbf66711.jpg" alt=" PATH TO GLORY " width= "500" height= "600" />
+</a>
 
 ## J'espère que cela a bien marché
 
