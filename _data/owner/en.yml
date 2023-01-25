@@ -2,14 +2,16 @@
 # Owner's Personal Information (Update 2023-01-12)
 ###########################################################
 # Update DCN_2023-01-06-(001) : change and substitute Personal infos
-# Update DCN_2023-01-12-(001) : change and substitute Personal infos
+# Update DCN_2023-01-12-(001) : change and substitute Personal infos 
+# Update DCN_2023-01-25-(001) : change and substitute Personal infos
+#
 # This is your brand name
 brand: " Prof. Calculus "
 
 # text below the brand name
 brand_sub_text: "The Data Expert"
 # used for seo meta post author (if it's not defined in post)
-name: "Data Expert . Proud member of Breizh Data Club"
+name: "Data Expert"
 
 # home page top header texts (Bloc A.1)
 home:
@@ -52,7 +54,7 @@ meta_common_description: " For Data Lovers Only! "
 contacts:
   #- github: ""
   #- email: "dcn.prof@gmail.com"
-  #- linkedin: "https://www.linkedin.com/today/author/didier-certain-46950a1"
+  #- linkedin: ""
   #- twitter: ""
   #- instagram: ""
   #- youtube: ""
