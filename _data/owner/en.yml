@@ -51,11 +51,11 @@ meta_common_description: " For Data Lovers Only! "
 # comment to remove any contact item
 contacts:
   #- github: ""
-  #- email: "didier.certain@etu.u-cergy.fr"
+  #- email: "dcn.prof@gmail.com"
   #- linkedin: "https://www.linkedin.com/today/author/didier-certain-46950a1"
   #- twitter: ""
   #- instagram: ""
-  #- youtube: "https://www.youtube.com/watch?v=4YbSCFyA6BM"
+  #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
